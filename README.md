@@ -1,13 +1,17 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
-
+### Custom authentication in Android
+This sample shows how to create a custom authenticator and a login module, and define a realm.
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
+**Server-side**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/custom-authentication/
 
+**Android**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/custom-authentication/custom-authentication-in-native-android-applications/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
